@@ -16,14 +16,10 @@
      		<a href="https://www.instagram.com/sil_sever/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 		</p>
     </th>
-    <th>
-    	<div markdown="1">
-    		[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SilSever&show_icons=true&theme=merko)](https://github.com/SilSever/github-readme-stats)
-    	</div>
-    </th>
-  </tr>
 </thead>
 </table>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SilSever&show_icons=true&theme=merko)](https://github.com/SilSever/github-readme-stats)
 
 
 
