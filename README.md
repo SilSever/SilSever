@@ -17,7 +17,9 @@
 		</p>
     </th>
     <th>
-    	[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SilSever&show_icons=true&theme=merko)](https://github.com/SilSever/github-readme-stats)
+    	<div markdown=1>
+    		[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SilSever&show_icons=true&theme=merko)](https://github.com/SilSever/github-readme-stats)
+    	</div>
     </th>
   </tr>
 </thead>
