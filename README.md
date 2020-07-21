@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Silvio</h1>
 
-<p><img src="https://image.flaticon.com/icons/svg/3061/3061267.svg" width="14" /> <img src="https://image.flaticon.com/icons/svg/197/197626.svg" width=14/> Engineering in Computer Science Student at <b>Sapienza University of Rome</b> <img src="https://drive.google.com/file/d/11DSbBueftldOHAreNDpSGCzUGnVgOpnC/view?usp=sharing" width="15"/>. </p>
+<p><img src="https://image.flaticon.com/icons/svg/3061/3061267.svg" width="14" /> <img src="https://image.flaticon.com/icons/svg/197/197626.svg" width=14/> Engineering in Computer Science Student at <b>Sapienza University of Rome</b> <img src="https://www.dropbox.com/s/wzv9btw2orrhljk/download.svg" width="15"/>. </p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilSever&show_icons=true&theme=merko&hide_langs_below=1)](https://github.com/SilSever/github-readme-stats)
