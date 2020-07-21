@@ -19,6 +19,9 @@
 </thead>
 </table>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilSever&show_icons=true&theme=merko&hide_langs_below=1)](https://github.com/SilSever/github-readme-stats)
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SilSever&show_icons=true&theme=merko)](https://github.com/SilSever/github-readme-stats)
 
 
